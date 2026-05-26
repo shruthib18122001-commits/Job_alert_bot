@@ -1,0 +1,4 @@
+# seen_jobs.json is intentionally tracked (GitHub Actions updates it each run)
+__pycache__/
+*.pyc
+.env
